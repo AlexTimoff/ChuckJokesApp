@@ -2,7 +2,7 @@
 
 **Визуализация приложения**: 
 
-![chuck](https://github.com/user-attachments/assets/2b55b1cb-aab6-4e01-bd3f-b2fcedd4fca2)
+![chuck](https://github.com/user-attachments/assets/ef1564f7-bab1-4fe0-8478-28152fcf0826)
 
 **Используемый стек**: 
 * Kotlin
