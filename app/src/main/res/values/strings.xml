@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">alextimofeev_android_hw16</string>
+    <string name="joke">Chuck Norris Jokes To Make You Laugh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">REFRESH</string>
+    <string name="request_not_completed">The request was not completed</string>
+</resources>
