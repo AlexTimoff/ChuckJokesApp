@@ -4,7 +4,6 @@
 
 ![chuck](https://github.com/user-attachments/assets/2b55b1cb-aab6-4e01-bd3f-b2fcedd4fca2)
 
-
 **Используемый стек**: 
 * Kotlin
 * Clean Architecture
